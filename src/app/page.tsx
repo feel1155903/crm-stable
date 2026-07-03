@@ -6,6 +6,7 @@ export default function Home() {
       <a href="/dashboard">进入 Dashboard</a>
       <br />
       <a href="/leads">进入 Leads</a>
+      <a href="/dashboard">Dashboard</a>
     </div>
   )
 }
